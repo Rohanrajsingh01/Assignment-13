@@ -1,0 +1,35 @@
+Task 3. Create a form which should take 
+
+3 inputs 
+
+email (email input)
+message (textarea)
+city (select - give 3 cities option)
+
+a.using JQuery value function you have to grab these inputs from html form
+b. and show these inputs into html table
+
+c.when show these results in html table use fadeIn or show/hide functions
+
+
+Task 4. Validation 
+
+Using JQuery when user clicks the button if 
+user not provide any of these values like name, message, city
+you have to show an error message
+
+by using JQuery animate function 
+     text color:red
+     bg color: pink
+     border: 1px solid red
+     take 2 seconds to display message
+     
+
+after showing these errors , error message should be dissappread after 5 seconds
+
+
+
+
+  
+
+ 
